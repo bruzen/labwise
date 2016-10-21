@@ -17,6 +17,7 @@ dependencies:
   - mpld3
   - bokeh
   - nose
+  - networkx
   - pip:
     -  cyordereddict
     -  "--editable=git+https://github.com/projectmesa/mesa#egg=mesa"
